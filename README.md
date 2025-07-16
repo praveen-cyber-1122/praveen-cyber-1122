@@ -1,26 +1,37 @@
-# 👋 Hi, I'm Praveen | Cybersecurity Engineer
+# 👋 Hi, I'm Praveen — Cybersecurity Engineer | Pentester | Cloud Defender
 
-I'm a cybersecurity consultant and freelance engineer helping startups, SMBs, and enterprise teams secure their digital assets across cloud, endpoint, and application environments.
+I'm a cybersecurity professional with 2+ years of hands-on experience in penetration testing, Microsoft 365 hardening, and vulnerability management. I help organizations strengthen their security posture across on-prem, cloud, and hybrid environments — aligning with NIST and ISO 27001 standards.
 
-💻 **Specialties**:  
-- Offensive Security: Web app pentesting, red teaming (MITRE ATT&CK mapped)  
-- Defensive Security: SIEM (Splunk/Wazuh), Microsoft 365 hardening (Defender, Intune, Entra)  
-- Cloud & DevSecOps: Secure IaC, CI/CD pipeline security, AWS/Azure audits  
-- AI + Cybersecurity: Few-shot malware detection & threat classification  
-- Compliance: NIST 800-53, ISO 27001, SOC 2 readiness & gap analysis
+💼 **What I Do**  
+- 🛡️ Perform end-to-end pentests on web apps, APIs, and infrastructure  
+- ☁️ Secure Microsoft 365 with Defender, Intune, and Entra ID configurations  
+- 📊 Build SIEM detection rules (Splunk, QRadar, Wazuh)  
+- 🧠 Apply AI/ML to malware detection using adversarial reprogramming  
+- ⚙️ Automate security tasks with Python, Bash, and PowerShell  
+- 📋 Map technical environments to compliance frameworks (NIST 800-53, ISO 27001)
 
-📁 **Project Repos** (see pinned):  
-I maintain detailed, real-world cybersecurity projects including red team simulations, malware classifiers, threat detection labs, and DevSecOps pipelines — each with deliverables like reports, scripts, and PoCs.
+🛠 **Tools & Technologies**  
+Burp Suite · Nessus · Nmap · Kali Linux · Metasploit · Microsoft Defender · Intune · Entra ID · Wireshark · Splunk · Active Directory · Python · Bash · PowerShell
 
-🔐 **Certifications**:  
-- CEH | ECSA | Google IT Support | Microsoft Cybersecurity Analyst | Ethical Hacking and Cybersecurity
+📁 **Projects (see pinned)**  
+Explore my real-world security labs:
+- Web App Pentest (OWASP Juice Shop)
+- Microsoft 365 Threat Simulation
+- Cloud Security Blueprint (Azure)
+- Few-Shot Malware Classifier
+- NIST Gap Analysis Toolkit
 
-📬 Let’s connect:  
-- 🔗 GitHub: [github.com/praveen-cyber-1122]  
-- 🧪 TryHackMe: [tryhackme.com/p/yourusername]
+🎓 **Certifications**  
+- Certified Ethical Hacker (CEH)  
+- EC-Council Certified Security Analyst (ECSA)  
+- Microsoft Cybersecurity Analyst (Coursera)  
+- Google IT Support Professional (Coursera)
+
+📫 **Let’s Connect**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ekula-praveen-kumar-apr)    
+- 🧪 [TryHackMe](https://tryhackme.com/p/whitedevil1437)
+- 🌐 [Portfolio](https://praveencyber.netlify.app/)
 
 ---
 
-“Security isn’t a checkbox — it’s a mindset. I help teams embed it into their operations.”
-
-
+_"Security is not a one-time fix — it's an evolving mindset."_  
