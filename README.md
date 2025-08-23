@@ -13,14 +13,6 @@ I'm a cybersecurity professional with 2+ years of hands-on experience in penetra
 🛠 **Tools & Technologies**  
 Burp Suite · Nessus · Nmap · Kali Linux · Metasploit · Microsoft Defender · Intune · Entra ID · Wireshark · Splunk · Active Directory · Python · Bash · PowerShell
 
-📁 **Projects (see pinned)**  
-Explore my real-world security labs:
-- Web App Pentest (OWASP Juice Shop)
-- Microsoft 365 Threat Simulation
-- Cloud Security Blueprint (Azure)
-- Few-Shot Malware Classifier
-- NIST Gap Analysis Toolkit
-
 🎓 **Certifications**  
 - Certified Ethical Hacker (CEH)  
 - EC-Council Certified Security Analyst (ECSA)  
