@@ -20,9 +20,9 @@ Burp Suite · Nessus · Nmap · Kali Linux · Metasploit · Microsoft Defender �
 - Google IT Support Professional (Coursera)
 
 📫 **Let’s Connect**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ekula-praveen-kumar-apr)    
-- 🧪 [TryHackMe](https://tryhackme.com/p/whitedevil1437)
-- 🌐 [Portfolio](https://praveencyber.netlify.app/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kumar-veentraa/)    
+- 🧪 [TryHackMe](https://tryhackme.com/p/whitedevil0422)
+- 🌐 [Portfolio]()
 
 ---
 
